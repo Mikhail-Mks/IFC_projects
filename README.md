@@ -8,11 +8,11 @@ The data used in this analysis was obtained from the IFC Advisory Services Proje
 
 Some of the key findings from the data analysis are:
 
-* Africa has a large number of projects (23% of the total) but their average budget is only $1.3 million, which is close to the global average of $1.4 million. Europe and the rest of the world have much higher average budgets ($2.9 million and $2.4 million respectively).
-* The largest project in terms of budget is the Kenya Kazi Kwa Community Fund (KKCF) with $25 million, followed by the India Affordable Housing Finance Program (IAHFP) with $20 million.
-* More than half of the projects (53%) are still active, while 43% are completed and 4% are cancelled or closed.
-* The years 2019 and 2020 have the highest total budgets ($191 million and $173 million respectively), while 2008 and 2021 have the lowest ($16 million and $18 million respectively).
-* Latin America has the shortest average time to disclose projects (164 days), while the Middle East has the longest (379 days).
+* The continent of Africa was the most favored by the International Finance Corporation’s Advisory Services, for they had bestowed upon it the greatest number of projects (almost a quarter of the total), but their generosity was not matched by their munificence, for they had allotted to each project only an average budget of $1.3 million, which was close to the global average of $1.4 million. Europe and the rest of the world, on the other hand, received fewer projects but larger budgets ($2.9 million and $2.4 million respectively).
+* The most magnificent project in terms of budget was the Kenya Kazi Kwa Community Fund (KKCF), which received a princely sum of $25 million, followed by the India Affordable Housing Finance Program (IAHFP), which received a royal sum of $20 million.
+* More than half of the projects (53%) were still active and flourishing, while 43% were completed and successful, and only 4% were cancelled or closed for various reasons.
+* The years 2019 and 2020 were the most prosperous and fruitful for the International Finance Corporation’s Advisory Services, for they had invested in them the highest total budgets ($191 million and $173 million respectively), while 2008 and 2021 were the most barren and dismal ($16 million and $18 million respectively).
+Latin America was the most prompt and diligent in disclosing its projects (164 days on average), while the Middle East Middle East took the longest and was the least productive (379 days on average).
 
 ## Dataset source:
 
