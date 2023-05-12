@@ -14,6 +14,9 @@ Some of the key findings from the data analysis are:
 * The years 2019 and 2020 were the most prosperous and fruitful for the International Finance Corporation’s Advisory Services, for they had invested in them the highest total budgets ($191 million and $173 million respectively), while 2008 and 2021 were the most barren and dismal ($16 million and $18 million respectively).
 Latin America was the most prompt and diligent in disclosing its projects (164 days on average), while the Middle East Middle East took the longest and was the least productive (379 days on average).
 
+## Visuals of the data were created in Power BI and available on the link below:  
+https://www.novypro.com/project/international-finance-corporations-advisory-services-analysis
+
 ## Dataset source:
 
 https://finances.worldbank.org/Projects/IFC-Advisory-Services-Projects/b74b-t2z3
